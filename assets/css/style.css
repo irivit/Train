@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Krona One', sans-serif;
+    text-align: right;
+}
+
+.jumbotron{
+    padding: 3%;
+    background-color: #caefff;
+}
+
+.panel-heading{
+    background: aliceblue;
+    font-family: 'Krona One', sans-serif;
+}
+
+.form-train{
+    font-family: 'Krona One', sans-serif;
+}
+
+p{
+    color: red;
+}
